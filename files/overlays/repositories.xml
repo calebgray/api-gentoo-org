@@ -2033,6 +2033,17 @@
     <feed>https://cgit.gentoo.org/dev/graaff.git/atom/</feed>
     <!-- <feed>https://cgit.gentoo.org/dev/graaff.git/rss/</feed> -->
   </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>graytoo</name>
+    <description lang="en">Emphasis on building Gentoo the right way.</description>
+    <homepage>https://gentoo.calebgray.com/</homepage>
+    <owner type="person">
+      <email>hey@calebgray.com</email>
+      <name>Caleb Gray</name>
+    </owner>
+    <source type="git">https://git.calebgray.com/calebgray/gentoo.git</source>
+    <feed>https://git.calebgray.com/calebgray/gentoo.atom</feed>
+  </repo>
   <repo quality="experimental" status="official">
     <name>grub2-themes</name>
     <description lang="en">Overlay dedicated to Grub2 themes (of any distribution)</description>
